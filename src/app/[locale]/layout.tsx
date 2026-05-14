@@ -16,6 +16,7 @@ import { getMessages } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import { AppointmentProvider } from "@/context/AppointmentContext";
+import { Analytics } from '@vercel/analytics/next';
 
 const plusJakartaSans = Plus_Jakarta_Sans({
   variable: "--font-plus-jakarta",
@@ -58,6 +59,7 @@ export default async function RootLayout({
             {children}
           </AppointmentProvider>
         </NextIntlClientProvider>
+        <Analytics />
       </body>
     </html>
   );
