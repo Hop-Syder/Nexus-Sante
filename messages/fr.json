@@ -1,0 +1,108 @@
+{
+  "Header": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "services": "Services",
+    "doctors": "Médecins",
+    "contact": "Contact",
+    "appointment": "Prendre Rendez-vous",
+    "switchLang": "EN"
+  },
+  "Hero": {
+    "badge": "La Santé est une Richesse",
+    "title": "Votre Santé, Notre Priorité",
+    "description": "Fournir des soins de santé de qualité avec compassion et confiance. Votre bien-être est notre priorité absolue, à chaque étape du chemin.",
+    "button": "Explorer les Services"
+  },
+  "NewPatients": {
+    "title": "Nous accueillons de |italic|",
+    "italic": "Nouveaux Patients",
+    "description": "Une brève déclaration soulignant le but et la mission de la clinique. Cela peut inclure l'engagement envers les soins aux patients et la santé communautaire."
+  },
+  "Services": {
+    "badge": "NOS SERVICES",
+    "title": "Solutions de Santé |italic|",
+    "italic": "Complètes",
+    "description": "Nous proposons une large gamme de services médicaux conçus pour répondre à vos besoins de santé uniques.",
+    "items": {
+      "gen_med": "Médecine Générale",
+      "gen_med_desc": "Soins complets pour adultes, traitant un large éventail de conditions chroniques et aiguës.",
+      "pediatrics": "Pédiatrie",
+      "pediatrics_desc": "Soins médicaux experts pour enfants de la naissance à l'adolescence dans un environnement convivial.",
+      "cardiology": "Cardiologie",
+      "cardiology_desc": "Diagnostic et traitement spécialisés pour diverses conditions cardiaques.",
+      "dental": "Soins Dentaires",
+      "dental_desc": "Services dentaires complets, des nettoyages de routine aux procédures avancées.",
+      "diagnostics": "Diagnostics",
+      "diagnostics_desc": "Services de tests et d'imagerie avancés pour un diagnostic précis et rapide.",
+      "specialized": "Soins Spécialisés",
+      "specialized_desc": "Traitements et chirurgies sur mesure pour des besoins médicaux complexes."
+    }
+  },
+  "About": {
+    "badge": "À PROPOS DE NEXUS SANTÉ",
+    "title": "Des Soins Médicaux Experts |italic|",
+    "italic": "En Qui Vous Pouvez Avoir Confiance",
+    "description": "Nous nous engageons à fournir des services de santé de la plus haute qualité. Notre équipe de professionnels expérimentés est là pour vous soutenir.",
+    "button": "En Savoir Plus",
+    "experience": "Ans d'Expérience",
+    "doctor_support": "Support Médical",
+    "doctor_support_desc": "Nos médecins dévoués assurent un soutien 24h/24 et des soins personnalisés.",
+    "client_support": "Support Client",
+    "client_support_desc": "Notre équipe d'assistance amicale est là pour vous aider avec vos rendez-vous."
+  },
+  "Stats": {
+    "patients": "Patients Soignés avec Succès",
+    "doctors": "Médecins et Infirmiers",
+    "oncology": "Cas d'Oncologie",
+    "years": "Années d'Expérience"
+  },
+  "WhyChoose": {
+    "badge": "POURQUOI NOUS CHOISIR",
+    "title": "Pourquoi devriez-vous choisir nos |italic|",
+    "italic": "Services Médicaux ?",
+    "description": "Nous nous engageons à offrir des soins médicaux exceptionnels avec une approche centrée sur le patient. Notre équipe expérimentée assure des services de qualité.",
+    "items": {
+      "dentist": "Dentiste Professionnel",
+      "dentist_desc": "Nos dentistes expérimentés assurent des soins exceptionnels en utilisant des techniques avancées pour tous vos besoins dentaires.",
+      "price": "Prix Abordable",
+      "price_desc": "Nous proposons des services dentaires de haute qualité à des prix abordables, rendant la santé bucco-dentaire accessible.",
+      "reservation": "Réservation Facile",
+      "reservation_desc": "Réservez vos rendez-vous en toute simplicité grâce à notre système de réservation en ligne fluide.",
+      "satisfactory": "Service Satisfaisant",
+      "satisfactory_desc": "Votre satisfaction est notre priorité—profitez de soins dentaires personnalisés dans un environnement confortable."
+    }
+  },
+  "Team": {
+    "badge": "NOS MÉDECINS",
+    "title": "Rencontrez notre Équipe |italic|",
+    "italic": "Médicale Experte",
+    "description": "Notre équipe de professionnels hautement qualifiés est dédiée à vous fournir les meilleurs soins possibles.",
+    "roles": {
+      "physiotherapist": "Physiothérapeute",
+      "neurologist": "Neurologue",
+      "cardiologist": "Cardiologue"
+    }
+  },
+  "FAQ": {
+    "badge": "QUESTIONS COURANTES",
+    "title": "Questions |italic|",
+    "italic": "Fréquemment Posées",
+    "description": "Trouvez des réponses aux questions les plus courantes sur nos services et procedures."
+  },
+  "Footer": {
+    "description": "Soins experts, traitements avancés — votre santé est notre priorité absolue.",
+    "quickLinks": "Liens Rapides",
+    "services": "Nos Services",
+    "contact": "Contactez-nous",
+    "rights": "Tous droits réservés.",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation"
+  },
+  "Common": {
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "backToHome": "Retour à l'Accueil",
+    "learnMore": "En Savoir Plus"
+  }
+}

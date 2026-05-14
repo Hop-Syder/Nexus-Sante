@@ -1,0 +1,108 @@
+{
+  "Header": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "doctors": "Doctors",
+    "contact": "Contact",
+    "appointment": "Make an Appointment",
+    "switchLang": "FR"
+  },
+  "Hero": {
+    "badge": "Health Is Wealth",
+    "title": "Your Health, Our Priority",
+    "description": "Providing quality healthcare with compassion and trust. Your well-being is our top priority, every step of the way.",
+    "button": "Explore Services"
+  },
+  "NewPatients": {
+    "title": "We’re Welcoming |italic|",
+    "italic": "New Patients",
+    "description": "A brief statement outlining the purpose and mission of the clinic. This can include the commitment to patient care and community health."
+  },
+  "Services": {
+    "badge": "OUR SERVICES",
+    "title": "Comprehensive Healthcare |italic|",
+    "italic": "Solutions",
+    "description": "We offer a wide range of medical services designed to meet your unique health needs.",
+    "items": {
+      "gen_med": "General Medicine",
+      "gen_med_desc": "Comprehensive care for adults, addressing a wide range of chronic and acute conditions.",
+      "pediatrics": "Pediatrics",
+      "pediatrics_desc": "Expert medical care for children from birth through adolescence in a friendly environment.",
+      "cardiology": "Cardiology",
+      "cardiology_desc": "Specialized diagnosis and treatment for various heart-related conditions.",
+      "dental": "Dental Care",
+      "dental_desc": "Comprehensive dental services from routine cleanings to advanced procedures.",
+      "diagnostics": "Diagnostics",
+      "diagnostics_desc": "Advanced testing and imaging services for accurate and timely diagnosis.",
+      "specialized": "Specialized Care",
+      "specialized_desc": "Tailored treatments and surgeries for complex medical needs."
+    }
+  },
+  "About": {
+    "badge": "ABOUT NEXUS SANTE",
+    "title": "Expert Medical Care |italic|",
+    "italic": "You Can Trust",
+    "description": "We are dedicated to providing the highest quality healthcare services. Our team of experienced professionals is here to support you.",
+    "button": "More About Us",
+    "experience": "Years Experience",
+    "doctor_support": "Doctor Support",
+    "doctor_support_desc": "Our dedicated doctors provide round-the-clock support and personalized care.",
+    "client_support": "Client Support",
+    "client_support_desc": "Our friendly support team is here to assist you with appointments and inquiries."
+  },
+  "Stats": {
+    "patients": "Successfully Patients",
+    "doctors": "Doctors And Nurses",
+    "oncology": "Oncology Cases",
+    "years": "Years Of Experience"
+  },
+  "WhyChoose": {
+    "badge": "WHY CHOOSE US",
+    "title": "Why you should choose our |italic|",
+    "italic": "Medical services?",
+    "description": "We are committed to offering exceptional medical care with a patient-first approach. Our experienced team and advanced facilities ensure quality services.",
+    "items": {
+      "dentist": "Professional Dentist",
+      "dentist_desc": "Our experienced dentists ensure exceptional care using advanced techniques for all your dental needs.",
+      "price": "Affordable Price",
+      "price_desc": "We offer top-quality dental services at budget-friendly prices, making oral health accessible.",
+      "reservation": "Reservation Convenience",
+      "reservation_desc": "Book appointments with ease using our seamless online reservation system.",
+      "satisfactory": "Satisfactory Service",
+      "satisfactory_desc": "Your satisfaction is our priority—enjoy personalized dental care in a comfortable environment."
+    }
+  },
+  "Team": {
+    "badge": "OUR DOCTORS",
+    "title": "Meet Our Expert |italic|",
+    "italic": "Medical Team",
+    "description": "Our team of highly skilled professionals is dedicated to providing you with the best care possible.",
+    "roles": {
+      "physiotherapist": "Physiotherapist",
+      "neurologist": "Neurologist",
+      "cardiologist": "Cardiologist"
+    }
+  },
+  "FAQ": {
+    "badge": "COMMON QUESTIONS",
+    "title": "Frequently Asked |italic|",
+    "italic": "Questions",
+    "description": "Find answers to the most common questions about our services and procedures."
+  },
+  "Footer": {
+    "description": "Expert care, advanced treatments—your health, our top priority.",
+    "quickLinks": "Quick Links",
+    "services": "Our Services",
+    "contact": "Contact Us",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions"
+  },
+  "Common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "backToHome": "Back to Home",
+    "learnMore": "Learn More"
+  }
+}

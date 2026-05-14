@@ -1,0 +1,96 @@
+/**
+ * @author @hopsyder
+ * @organization Nexus Partners
+ * @description Global styles for Nexus Santé Next.js
+ * @created 2026-05-14
+ * @updated 2026-05-14
+ * 🌐 nexuspartners.xyz
+ * 📧 daoudaabassichristian@gmail.com
+*/──────────────────────────────────
+
+@import "tailwindcss";
+
+@theme {
+    --breakpoint-2xl: 1472px;
+
+    --font-plus-jakarta: "var(--font-plus-jakarta)", sans-serif;
+    --font-roboto: "var(--font-roboto)", serif;
+
+    --color-primary: #13182f;
+    --color-secondary: #3d65ff;
+    --color-gray: #666e82;
+    --color-gray-light: #d5dff0;
+    --color-gray-100: #f7f7f7;
+    --color-gray-200: #f2f7fd;
+
+    --animate-marquee: marquee 30s linear infinite;
+    --animate-flipheart: flipheart 4s ease-in-out infinite;
+    --animate-jump: jump 10s ease-in-out infinite;
+    --animate-pulse-custom: pulse-custom 5s ease-in-out infinite;
+}
+
+@layer base {
+    :root {
+        --background: #ffffff;
+        --foreground: #13182f;
+    }
+
+    body {
+        @apply bg-white font-plus-jakarta text-sm/5 font-medium antialiased lg:text-base/5 lg:leading-6 text-primary;
+    }
+
+    button:not(:disabled),
+    [role="button"]:not(:disabled) {
+        cursor: pointer;
+    }
+}
+
+@layer components {
+    .btn {
+        @apply bg-secondary relative z-[1] inline-flex items-center justify-center gap-2 rounded-lg px-4 py-3 text-base/5 font-medium text-white shadow-[inset_0_1px_2px_0_rgba(255,255,255,0.3)] duration-300 hover:bg-[#274FEB];
+    }
+
+    .btn-secondary {
+        @apply text-primary ring-primary hover:bg-primary bg-transparent shadow-none ring-1 duration-300 ring-inset hover:text-white;
+    }
+
+    .nav-links {
+        @apply before:bg-secondary hover:text-secondary relative inline-flex gap-2.5 px-1 py-2 text-base/5 font-semibold text-white transition before:absolute before:bottom-0 before:left-1/2 before:h-1 before:w-0 before:rounded-full before:duration-300 before:hover:inset-x-0 before:hover:w-full xl:py-7;
+    }
+
+    .nav-links.active {
+        @apply text-secondary before:inset-x-0 before:w-full;
+    }
+
+    .form-input,
+    .form-textarea {
+        @apply border-b-gray-light text-gray placeholder:text-gray focus:border-b-secondary focus:text-secondary w-full border border-transparent bg-transparent px-4 py-3.5 text-base/5 font-medium transition focus:border-transparent focus:ring-0 focus:outline-none;
+    }
+
+    .form-textarea {
+        @apply resize-none;
+    }
+
+    .container {
+        @apply mx-auto px-4;
+    }
+}
+
+@keyframes marquee {
+    0% { transform: translateX(0%); }
+    100% { transform: translateX(-100%); }
+}
+
+@keyframes flipheart {
+    from { transform: rotateY(0); }
+    to { transform: rotateY(360deg); }
+}
+
+@keyframes jump {
+    0%, 100% { transform: translateY(0) translateX(0); }
+    50% { transform: translateY(-30px) translateX(0); }
+}
+
+@keyframes pulse-custom {
+    50% { opacity: 0.8; }
+}
