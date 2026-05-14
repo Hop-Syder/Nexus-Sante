@@ -4,9 +4,10 @@
  * @description Root layout with i18n support for Nexus Santé
  * @created 2026-05-14
  * @updated 2026-05-14
- * 🌐 nexuspartners.xyz
+ * 🌐 nexus-partners.xyz
  * 📧 daoudaabassichristian@gmail.com
-*/──────────────────────────────────
+ * ──────────────────────────────────
+ */
 
 import { Plus_Jakarta_Sans, Roboto_Serif } from "next/font/google";
 import "../globals.css";

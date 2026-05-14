@@ -4,9 +4,10 @@
  * @description i18n request configuration for loading messages
  * @created 2026-05-14
  * @updated 2026-05-14
- * 🌐 nexuspartners.xyz
+ * 🌐 nexus-partners.xyz
  * 📧 daoudaabassichristian@gmail.com
-*/──────────────────────────────────
+ * ──────────────────────────────────
+ */
 
 import { getRequestConfig } from 'next-intl/server';
 import { routing } from './routing';

@@ -4,9 +4,10 @@
  * @description Services section for home page with i18n and balanced positioning
  * @created 2026-05-14
  * @updated 2026-05-14
- * 🌐 nexuspartners.xyz
+ * 🌐 nexus-partners.xyz
  * 📧 daoudaabassichristian@gmail.com
-*/──────────────────────────────────
+ * ──────────────────────────────────
+ */
 
 "use client";
 

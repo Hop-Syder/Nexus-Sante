@@ -4,9 +4,10 @@
  * @description Medical Team section with Swiper carousel, i18n and restored icons
  * @created 2026-05-14
  * @updated 2026-05-14
- * 🌐 nexuspartners.xyz
+ * 🌐 nexus-partners.xyz
  * 📧 daoudaabassichristian@gmail.com
-*/──────────────────────────────────
+ * ──────────────────────────────────
+ */
 
 "use client";
 

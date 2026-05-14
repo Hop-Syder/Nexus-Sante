@@ -4,9 +4,10 @@
  * @description Modal for appointment booking with form validation
  * @created 2026-05-14
  * @updated 2026-05-14
- * 🌐 nexuspartners.xyz
+ * 🌐 nexus-partners.xyz
  * 📧 daoudaabassichristian@gmail.com
-*/──────────────────────────────────
+ * ──────────────────────────────────
+ */
 
 "use client";
 

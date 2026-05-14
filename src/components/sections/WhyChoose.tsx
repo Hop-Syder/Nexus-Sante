@@ -4,9 +4,10 @@
  * @description Why Choose Us section for Nexus Santé Next.js with i18n
  * @created 2026-05-14
  * @updated 2026-05-14
- * 🌐 nexuspartners.xyz
+ * 🌐 nexus-partners.xyz
  * 📧 daoudaabassichristian@gmail.com
-*/──────────────────────────────────
+ * ──────────────────────────────────
+ */
 
 "use client";
 

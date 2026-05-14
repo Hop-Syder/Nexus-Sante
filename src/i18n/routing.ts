@@ -4,9 +4,10 @@
  * @description i18n routing configuration
  * @created 2026-05-14
  * @updated 2026-05-14
- * 🌐 nexuspartners.xyz
+ * 🌐 nexus-partners.xyz
  * 📧 daoudaabassichristian@gmail.com
-*/──────────────────────────────────
+ * ──────────────────────────────────
+ */
 
 import { defineRouting } from 'next-intl/routing';
 import { createNavigation } from 'next-intl/navigation';
