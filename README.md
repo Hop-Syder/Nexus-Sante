@@ -4,7 +4,7 @@
 [![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![Nexus Partners](https://img.shields.io/badge/Nexus-Partners-gold?style=for-the-badge)](https://nexuspartners.xyz)
+[![Nexus Partners](https://img.shields.io/badge/Nexus-Partners-gold?style=for-the-badge)](https://nexus-partners.xyz)
 
 ## 🌟 Vision du Projet
 
@@ -118,7 +118,7 @@ Ce projet est la propriété exclusive de **Nexus Partners**. Tous droits réser
 
 Pour toute question ou collaboration, contactez-nous :
 
-- **Nexus Partners** : [nexuspartners.xyz](https://nexuspartners.xyz)
+- **Nexus Partners** : [nexus-partners.xyz](https://nexus-partners.xyz)
 - **Email** : [daoudaabassichristian@gmail.com](mailto:daoudaabassichristian@gmail.com)
 - **Support Technique** : @hopsyder
 
